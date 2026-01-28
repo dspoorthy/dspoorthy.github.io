@@ -3,9 +3,6 @@ layout: default
 description: I'm Divya Appapogu and I work on Natural Language Processing. More details inside!
 ---
 
-<!-- (comment) the image below can be found in img folder of this very project-->
-<!--![i_am_a_fox](./img/people/lena_large-min.png){: style="float: right; margin: 0px 20px; width: 180px;" name="fox"}-->
-<!--![i_am_a_fox](./img/people/orange_lena-min.jpg){: style="float: right; margin: 0px 20px; width: 180px;" name="fox"}-->
 ![i_am_a_fox](./img/people/divya.png){: style="float: right; margin: 0px 20px; width: 200px; border-radius: 0;" name="fox"}
 
 I am Divya Appapogu, a second-year Ph.D. student in Computer Science at Boston University, advised by [Dr. Aaron Mueller](https://aaronmueller.github.io).
@@ -26,8 +23,6 @@ If you are interested in my work, would like to discuss ideas, or have any quest
 
 
 
-<!-- <a href= onMouseOver="document.readmore_1.src='/img/people/foxie.jpeg';" onMouseOut="document.readmore_1.src='/img/people/orange_lena-min.jpg';">
-<img src="/img/people/orange_lena-min.jpg" name="readmore_1" width=204px height=240px></a> -->
 
 
 
