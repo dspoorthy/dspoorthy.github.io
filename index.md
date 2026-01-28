@@ -3,7 +3,7 @@ layout: default
 description: I'm Divya Appapogu and I work on Natural Language Processing. More details inside!
 ---
 
-![i_am_a_fox](./img/people/divya.png){: style="float: right; margin: 0px 20px; width: 200px; border-radius: 0;" name="fox"}
+![i_am_a_fox](img/people/divya.png){: style="float: right; margin: 0px 20px; width: 200px; border-radius: 0;" name="fox"}
 
 I am Divya Appapogu, a second-year Ph.D. student in Computer Science at Boston University, advised by [Dr. Aaron Mueller](https://aaronmueller.github.io).
 
