@@ -1,28 +1,18 @@
 ---
 layout: photolist
-title: Teaching & Supervising
-description: Information about the students I supervised and the courses I teach. 
-menu: no
+title: Teaching 
+menu: yes
 order: 4
 ---
 
-## <span style="color:darkblue"> Students & Interns </span>
-While working at Yandex Research, I supervised undergraduate/master students in the scope of
-[Yandex Academic Supervision Program](https://yandex.ru/jobs/vacancies/research/scientific_leadership_prog/), 
-and NLP research interns at [Yandex Research]({{site.yandex_research_main}}).
+I was a Teaching Assistant for the following courses.
 
 
-The team:
-* Dmitrii Emelianenko: [NeurIPS 2019](https://arxiv.org/abs/1911.00176), [ACL 2020 (BPE-dropout)](https://arxiv.org/abs/1910.13267)
-* Ivan Provilkov: [ACL 2020 (BPE-dropout)](https://arxiv.org/abs/1910.13267)
-* Maksim Ryabinin: a very cool paper which will be here soon :)
-* Fedor Moiseev: [ACL 2019 paper](https://www.aclweb.org/anthology/P19-1580/)
+#### **CS506 — Tools for Data Science**  
+*Boston University*  
+_Fall 2025_
 
 
-
-## <span style="color:darkblue"> Courses </span>
-{% assign courses = (site.data.courses | where: "selected", "y") %}
-{% for course in courses %}
-{% include course.html course=course %}
-{% endfor %}
-
+#### **CS101 — Introduction to Computing**  
+*Boston University*  
+_Fall 2021 · Spring 2022 · Fall 2024_
