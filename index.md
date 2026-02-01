@@ -28,10 +28,10 @@ If you are interested in my work, would like to discuss ideas, or have any quest
 
 
 <!--<span style="color:red">__Blog-course:__</span>    NLP Course <span style="color:#92bf32">For You</span> - look [here](https://lena-voita.github.io/nlp_course.html).-->
-
+<!-- 
 ## <span style="color:darkblue">News </span>
 __2025__
-* <span style="color:#c4483f">Stay Tuned!</span>
+* <span style="color:#c4483f">Stay Tuned!</span> -->
 
 
 
