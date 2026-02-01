@@ -9,11 +9,11 @@ I am Divya Appapogu, a second-year Ph.D. student in Computer Science at Boston U
 
 My primary research interests are in interpretable machine learning and mechanistic interpretability, all in the context of AI safety. I am currently working on methods to identify and understand multi-dimensional concepts in large language models. In the past, I have worked on multimodal models and computer vision.
 
-Prior to starting my Ph.D., I worked as a software engineer at Barclays and OYO. A long time ago, I completed my undergraduate in Engineering Science at the Indian Institute of Technology Hyderabad.
+Prior to starting my Ph.D., I worked as a software engineer at Barclays and OYO. A long time ago, I completed my undergraduate in <br> Engineering Science at the Indian Institute of Technology Hyderabad.
 
-Outside of research, I enjoy reading science fiction and traveling.
+Outside of research, I enjoy reading fiction and traveling.
 
-If you are interested in my work, would like to discuss ideas, or have any questions, please feel free to reach out!
+If you are interested in my work, would like to  discuss ideas, or have <br> any questions, please feel free to reach out!
 
 
 
