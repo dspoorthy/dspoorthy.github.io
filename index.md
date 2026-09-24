@@ -5,11 +5,11 @@ description: I'm Divya Appapogu and I work on Natural Language Processing. More 
 
 ![i_am_a_fox](img/people/divya.png){: style="float: right; margin: 0px 20px; width: 200px; border-radius: 0;" name="fox"}
 
-I am Divya Appapogu, a second-year Ph.D. student in Computer Science at Boston University, advised by [Dr. Aaron Mueller](https://aaronmueller.github.io).
+Hi! I am Divya, a second-year Ph.D. student in Computer Science at Boston University, advised by [Dr. Aaron Mueller](https://aaronmueller.github.io).
 
 My primary research interests are in interpretable machine learning and mechanistic interpretability, all in the context of AI safety. I am currently working on methods to identify and understand multi-dimensional concepts in large language models. In the past, I have worked on multimodal models and computer vision.
 
-Prior to starting my Ph.D., I worked as a software engineer at Barclays and OYO. A long time ago, I completed my undergraduate in <br> Engineering Science at the Indian Institute of Technology Hyderabad.
+I completed my undergraduate in <br> Engineering Science at the Indian Institute of Technology Hyderabad where I worked on image segemntation with Dr. Soumya Jana.
 
 Outside of research, I enjoy reading fiction and traveling.
 
